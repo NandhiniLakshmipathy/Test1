@@ -1,1 +1,1 @@
-Hello! this is file2.txt
+Hello! this is an empty file
